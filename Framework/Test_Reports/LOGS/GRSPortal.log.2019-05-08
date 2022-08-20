@@ -1,0 +1,84 @@
+2019-05-08 05:52:08 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-08 05:52:08 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 158======
+2019-05-08 05:52:08 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 13======
+2019-05-08 05:52:08 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-08 05:52:08 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-08 05:52:08 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-08 05:52:08 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-08 05:52:08 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-08 05:52:08 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-08 05:52:16 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 05:52:16
+2019-05-08 05:52:16 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 2
+2019-05-08 05:52:22 INFO  TestActions:126 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into Login manager
+2019-05-08 05:52:28 INFO  TestActions:126 - ---PASS---Step No. Step 2 : Expected Result is :  and Actual Result is : Suucessfully created the Policy with policy number as AUT100
+2019-05-08 05:52:28 INFO  TestActions:26 - ---INFO--- Test Case Field Validation of Manage Portal Passed
+2019-05-08 05:52:28 INFO  TestActions:26 - ---INFO--- Test Field Validation of Manage Portal ended  @ 05:52:28
+2019-05-08 05:52:30 INFO  TestActions:103 - ---INFO---Test Case : Field Validation of Manage Portal finished
+2019-05-08 05:52:30 INFO  TestDriver:101 - All tests get executed
+2019-05-08 05:52:30 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-08 05:52:30 INFO  TestDriver:104 - Total passed test cases:1
+2019-05-08 05:52:30 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-08 05:52:30 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********
+2019-05-08 06:05:16 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-08 06:05:16 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 153======
+2019-05-08 06:05:16 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 13======
+2019-05-08 06:05:16 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-08 06:05:16 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-08 06:05:16 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-08 06:05:16 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-08 06:05:16 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-08 06:05:16 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-08 06:05:23 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 06:05:23
+2019-05-08 06:05:24 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 2
+2019-05-08 06:05:30 INFO  TestActions:126 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into Login manager
+2019-05-08 06:05:35 INFO  TestActions:126 - ---PASS---Step No. Step 2 : Expected Result is :  and Actual Result is : Suucessfully created the Policy with policy number as AUT100
+2019-05-08 06:05:35 INFO  TestActions:26 - ---INFO--- Test Case Field Validation of Manage Portal Passed
+2019-05-08 06:05:35 INFO  TestActions:26 - ---INFO--- Test Field Validation of Manage Portal ended  @ 06:05:35
+2019-05-08 06:05:35 INFO  TestActions:103 - ---INFO---Test Case : Field Validation of Manage Portal finished
+2019-05-08 06:05:35 INFO  TestDriver:101 - All tests get executed
+2019-05-08 06:05:35 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-08 06:05:35 INFO  TestDriver:104 - Total passed test cases:1
+2019-05-08 06:05:35 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-08 06:05:35 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********
+2019-05-08 14:28:46 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-08 14:28:47 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 170======
+2019-05-08 14:28:47 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 13======
+2019-05-08 14:28:47 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-08 14:28:47 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-08 14:28:47 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-08 14:28:47 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-08 14:28:47 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-08 14:28:47 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-08 14:29:16 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 14:29:16
+2019-05-08 14:29:16 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 2
+2019-05-08 14:29:46 INFO  TestActions:108 - ---INFO---Step No. Step 1 : Description : Successfully Launched GRS Portal Application
+2019-05-08 14:29:46 INFO  TestActions:126 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into GRS Application with User content-manager@sompo-intl.com
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked on Add Policy Button
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Policy holder as Cube Smart
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Starting Policy as GGR10013093100
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Policy Number as AUT101
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Product Name as Cyber
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Effective Date as 5/8/2019
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Expiration Date as 5/8/2020
+2019-05-08 14:29:55 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked Save Button
+2019-05-08 14:29:55 INFO  TestActions:126 - ---PASS---Step No. Step 2 : Expected Result is :  and Actual Result is : Suucessfully created the Policy with policy number as AUT101
+2019-05-08 14:29:55 INFO  TestActions:26 - ---INFO--- Test Case Field Validation of Manage Portal Passed
+2019-05-08 14:29:55 INFO  TestActions:26 - ---INFO--- Test Field Validation of Manage Portal ended  @ 14:29:55
+2019-05-08 14:29:55 INFO  TestActions:103 - ---INFO---Test Case : Field Validation of Manage Portal finished
+2019-05-08 14:29:55 INFO  TestDriver:101 - All tests get executed
+2019-05-08 14:29:55 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-08 14:29:55 INFO  TestDriver:104 - Total passed test cases:1
+2019-05-08 14:29:55 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-08 14:29:55 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********

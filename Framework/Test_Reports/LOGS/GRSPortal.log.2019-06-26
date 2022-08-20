@@ -1,0 +1,83 @@
+2019-06-26 11:00:32 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-06-26 11:00:32 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 190======
+2019-06-26 11:00:32 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 49======
+2019-06-26 11:00:33 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-06-26 11:00:34 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-06-26 11:00:34 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-06-26 11:00:34 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-06-26 11:00:34 INFO  TestScript:97 - ---INFO---Strating Test Case : Create Policy
+2019-06-26 11:00:34 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-06-26 11:00:42 INFO  TestScript:26 - ---INFO--- Test Create Policy started  @ 11:00:42
+2019-06-26 11:00:42 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Create Policy' = 4
+2019-06-26 11:00:57 INFO  TestActions:108 - ---INFO---Step No. Step 1 : Description : Successfully Launched GRS Portal Application
+2019-06-26 11:00:57 INFO  TestActions:127 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into GRS Application with User content-manager@sompo-intl.com
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked on Add Policy Button
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Policy holder as Cube Smart
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Starting Policy as GGR10013093100
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Policy Number as AUT15830
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Product Name as Cyber
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Effective Date as 5/8/2019
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Expiration Date as 5/8/2020
+2019-06-26 11:01:08 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked Save Button
+2019-06-26 11:01:08 INFO  TestActions:127 - ---PASS---Step No. Step 2 : Expected Result is :  and Actual Result is : Successfully created the Policy with policy number as AUT15830
+2019-06-26 11:01:13 INFO  TestActions:26 - ---INFO--- Element Text is AUT15830
+2019-06-26 11:01:13 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Filter Policy Number Button
+2019-06-26 11:01:13 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Entered Policy Number as AUT111
+2019-06-26 11:01:13 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Apply Filter Button
+2019-06-26 11:01:13 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Expand Button
+2019-06-26 11:01:13 INFO  TestActions:127 - ---PASS---Step No. Step 3 : Expected Result is :  and Actual Result is : Successfully Verified Policy Number on GRS Home Screen
+2019-06-26 11:01:16 INFO  TestActions:127 - ---PASS---Step No. Step 4 : Expected Result is :  and Actual Result is : Successfully Logged Out from  GRS Application
+2019-06-26 11:01:16 INFO  TestActions:26 - ---INFO--- Test Case Create Policy Passed
+2019-06-26 11:01:16 INFO  TestActions:26 - ---INFO--- Test Create Policy ended  @ 11:01:16
+2019-06-26 11:01:17 INFO  TestActions:103 - ---INFO---Test Case : Create Policy finished
+2019-06-26 11:01:17 INFO  TestDriver:101 - All tests get executed
+2019-06-26 11:01:17 INFO  TestDriver:103 - Total test cases executed:1
+2019-06-26 11:01:17 INFO  TestDriver:104 - Total passed test cases:1
+2019-06-26 11:01:17 INFO  TestDriver:105 - Total failed test cases:0
+2019-06-26 11:01:17 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********
+2019-06-26 11:03:54 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-06-26 11:03:54 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 170======
+2019-06-26 11:03:54 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 49======
+2019-06-26 11:03:54 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-06-26 11:03:55 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-06-26 11:03:55 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-06-26 11:03:55 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-06-26 11:03:55 INFO  TestScript:97 - ---INFO---Strating Test Case : Create a Event
+2019-06-26 11:03:55 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-06-26 11:04:05 INFO  TestScript:26 - ---INFO--- Test Create a Event started  @ 11:04:05
+2019-06-26 11:04:05 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Create a Event' = 4
+2019-06-26 11:04:14 INFO  TestActions:108 - ---INFO---Step No. Step 1 : Description : Successfully Launched GRS Portal Application
+2019-06-26 11:04:14 INFO  TestActions:127 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into GRS Application with User content-manager@sompo-intl.com
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked on View All Events Link
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked on Add Events Link
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Event Name as AUT79228
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Effective Date as 5/31/2019
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Expiration Date as 6/1/2019
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked on All day Event Radio Button
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Description of Event
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Event Type as Webinar
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Location as Noida
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Added Attachment
+2019-06-26 11:04:49 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Click on Submit Button
+2019-06-26 11:04:49 INFO  TestActions:127 - ---PASS---Step No. Step 2 : Expected Result is :  and Actual Result is : Successfully Created Event by Name AUT79228
+2019-06-26 11:04:58 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Filter Event Title Button
+2019-06-26 11:04:58 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Entered Event Title as AUT79228
+2019-06-26 11:04:58 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Apply Filter Button
+2019-06-26 11:04:58 INFO  TestActions:127 - ---PASS---Step No. Step 3 : Expected Result is :  and Actual Result is : Successfully Verified the Event On Upcoming Event Page
+2019-06-26 11:05:01 INFO  TestActions:127 - ---PASS---Step No. Step 4 : Expected Result is :  and Actual Result is : Successfully Logged Out from  GRS Application
+2019-06-26 11:05:01 INFO  TestActions:26 - ---INFO--- Test Case Create a Event Passed
+2019-06-26 11:05:01 INFO  TestActions:26 - ---INFO--- Test Create a Event ended  @ 11:05:01
+2019-06-26 11:05:02 INFO  TestActions:103 - ---INFO---Test Case : Create a Event finished
+2019-06-26 11:05:02 INFO  TestDriver:101 - All tests get executed
+2019-06-26 11:05:02 INFO  TestDriver:103 - Total test cases executed:1
+2019-06-26 11:05:02 INFO  TestDriver:104 - Total passed test cases:1
+2019-06-26 11:05:02 INFO  TestDriver:105 - Total failed test cases:0
+2019-06-26 11:05:02 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********

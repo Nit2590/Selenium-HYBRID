@@ -1,0 +1,40 @@
+2019-05-21 09:04:11 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-21 09:04:11 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 164======
+2019-05-21 09:04:11 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 18======
+2019-05-21 09:04:11 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-21 09:04:12 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-21 09:04:12 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-21 09:04:12 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-21 09:04:12 INFO  TestScript:97 - ---INFO---Strating Test Case : Create Policy
+2019-05-21 09:04:12 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-21 09:04:20 INFO  TestScript:26 - ---INFO--- Test Create Policy started  @ 09:04:20
+2019-05-21 09:04:21 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Create Policy' = 3
+2019-05-21 09:04:28 INFO  TestActions:108 - ---INFO---Step No. Step 1 : Description : Successfully Launched GRS Portal Application
+2019-05-21 09:04:28 INFO  TestActions:126 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into GRS Application with User content-manager@sompo-intl.com
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked on Add Policy Button
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Policy holder as Cube Smart
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Starting Policy as GGR10013093100
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Policy Number as AUT160
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Selected Product Name as Cyber
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Effective Date as 5/8/2019
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Entered Expiration Date as 5/8/2020
+2019-05-21 09:04:44 INFO  TestActions:108 - ---INFO---Step No. Step 2 : Description : Successfully Clicked Save Button
+2019-05-21 09:04:44 INFO  TestActions:126 - ---PASS---Step No. Step 2 : Expected Result is :  and Actual Result is : Successfully created the Policy with policy number as AUT160
+2019-05-21 09:04:47 INFO  TestActions:26 - ---INFO--- Element Text is GPR100110567206
+2019-05-21 09:04:47 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Filter Policy Number Button
+2019-05-21 09:04:47 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Entered Policy Number as AUT111
+2019-05-21 09:04:47 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Apply Filter Button
+2019-05-21 09:04:47 INFO  TestActions:108 - ---INFO---Step No. Step 3 : Description : Successfully Clicked on Expand Button
+2019-05-21 09:04:47 INFO  TestActions:126 - ---PASS---Step No. Step 3 : Expected Result is :  and Actual Result is : Successfully Verified Policy Number on GRS Home Screen
+2019-05-21 09:04:47 INFO  TestActions:26 - ---INFO--- Test Case Create Policy Passed
+2019-05-21 09:04:47 INFO  TestActions:26 - ---INFO--- Test Create Policy ended  @ 09:04:47
+2019-05-21 09:04:47 INFO  TestActions:103 - ---INFO---Test Case : Create Policy finished
+2019-05-21 09:04:47 INFO  TestDriver:101 - All tests get executed
+2019-05-21 09:04:47 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-21 09:04:47 INFO  TestDriver:104 - Total passed test cases:1
+2019-05-21 09:04:47 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-21 09:04:47 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********

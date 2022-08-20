@@ -1,0 +1,11 @@
+2019-05-15 16:43:52 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-15 16:43:52 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 164======
+2019-05-15 16:43:52 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 18======
+2019-05-15 16:43:52 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-15 16:43:54 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-15 16:43:54 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-15 16:43:54 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-15 16:43:54 INFO  TestScript:97 - ---INFO---Strating Test Case : Create Policy
+2019-05-15 16:43:54 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal

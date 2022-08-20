@@ -1,0 +1,113 @@
+2019-05-07 08:20:46 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-07 08:20:47 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 286======
+2019-05-07 08:20:47 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 3======
+2019-05-07 08:20:47 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-07 08:20:47 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-07 08:20:47 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-07 08:20:47 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-07 08:20:47 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-07 08:20:47 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-07 08:20:55 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 08:20:55
+2019-05-07 08:20:55 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 1
+2019-05-07 08:20:55 ERROR TestScript:58 - ---ERROR--- Exception IllegalArgumentException occured
+2019-05-07 08:20:55 INFO  TestScript:103 - ---INFO---Test Case : Field Validation of Manage Portal finished
+2019-05-07 08:20:56 INFO  TestDriver:101 - All tests get executed
+2019-05-07 08:20:56 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-07 08:20:56 INFO  TestDriver:104 - Total passed test cases:0
+2019-05-07 08:20:56 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-07 08:20:56 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********
+2019-05-07 08:22:49 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-07 08:22:49 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 171======
+2019-05-07 08:22:49 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 3======
+2019-05-07 08:22:50 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-07 08:22:50 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-07 08:22:50 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-07 08:22:50 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-07 08:23:02 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-07 08:23:02 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-07 08:23:32 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 08:23:32
+2019-05-07 08:24:19 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 1
+2019-05-07 08:26:53 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-07 08:26:53 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 125======
+2019-05-07 08:26:53 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 3======
+2019-05-07 08:26:53 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-07 08:26:54 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-07 08:26:54 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-07 08:26:54 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-07 08:26:54 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-07 08:26:54 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-07 08:27:01 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 08:27:01
+2019-05-07 08:27:01 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 1
+2019-05-07 08:27:03 INFO  TestActions:126 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into Login manager
+2019-05-07 08:27:03 INFO  TestActions:26 - ---INFO--- Test Case Field Validation of Manage Portal Passed
+2019-05-07 08:27:03 INFO  TestActions:26 - ---INFO--- Test Field Validation of Manage Portal ended  @ 08:27:03
+2019-05-07 08:27:03 INFO  TestActions:103 - ---INFO---Test Case : Field Validation of Manage Portal finished
+2019-05-07 08:27:03 INFO  TestDriver:101 - All tests get executed
+2019-05-07 08:27:03 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-07 08:27:03 INFO  TestDriver:104 - Total passed test cases:1
+2019-05-07 08:27:03 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-07 08:27:03 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********
+2019-05-07 09:00:25 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-07 09:00:25 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 126======
+2019-05-07 09:00:25 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 3======
+2019-05-07 09:00:25 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-07 09:00:25 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-07 09:00:25 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-07 09:00:25 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-07 09:00:25 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-07 09:00:25 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-07 09:00:32 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 09:00:32
+2019-05-07 09:00:32 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 1
+2019-05-07 09:00:34 INFO  TestActions:126 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into Login manager
+2019-05-07 09:00:34 INFO  TestActions:26 - ---INFO--- Test Case Field Validation of Manage Portal Passed
+2019-05-07 09:00:34 INFO  TestActions:26 - ---INFO--- Test Field Validation of Manage Portal ended  @ 09:00:34
+2019-05-07 09:00:36 INFO  TestActions:103 - ---INFO---Test Case : Field Validation of Manage Portal finished
+2019-05-07 09:00:36 INFO  TestDriver:101 - All tests get executed
+2019-05-07 09:00:36 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-07 09:00:36 INFO  TestDriver:104 - Total passed test cases:1
+2019-05-07 09:00:36 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-07 09:00:36 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********
+2019-05-07 09:11:59 INFO  ObjectRepository:26 - ---INFO--- ======Started populating element collection map======
+2019-05-07 09:12:00 INFO  ObjectRepository:26 - ---INFO--- ======Time taken to populate object repository in millis is 154======
+2019-05-07 09:12:00 INFO  ObjectRepository:26 - ---INFO--- ======Number of object in Object Map is 4======
+2019-05-07 09:12:00 INFO  TestDriver:43 - *********EXECUTION STARTED**********
+
+
+2019-05-07 09:12:00 INFO  TestScript:26 - ---INFO--- Total number of test scripts to be executed in module ManagePortal are : 1
+2019-05-07 09:12:00 INFO  TestDriver:53 - Started execution of module ManagePortal
+2019-05-07 09:12:00 INFO  TestDriver:57 - Running test case# 1 out of 1 test cases.
+2019-05-07 09:12:00 INFO  TestScript:97 - ---INFO---Strating Test Case : Field Validation of Manage Portal
+2019-05-07 09:12:00 INFO  TestScript:98 - ---INFO---Test Case Description : Field Validation of Manage Portal
+2019-05-07 09:12:08 INFO  TestScript:26 - ---INFO--- Test Field Validation of Manage Portal started  @ 09:12:08
+2019-05-07 09:12:08 INFO  TestScript:26 - ---INFO--- Total Number of test keywords in test 'Field Validation of Manage Portal' = 4
+2019-05-07 09:12:10 INFO  TestActions:126 - ---PASS---Step No. Step 1 : Expected Result is :  and Actual Result is : Successfully Logged in into Login manager
+2019-05-07 09:12:14 INFO  TestActions:26 - ---INFO--- Text/Value to be stored is Bentley Betts
+2019-05-07 09:12:14 INFO  TestActions:126 - ---PASS---Step No. Step 2 : Expected Result is : User should fetch value of object lblContactName of screen Home from UI and stored it in variable VAR#ContactName and Actual Result is : Successfully get text Bentley Betts of object lblContactName in screen Home and stored it in variable VAR#ContactName
+2019-05-07 09:12:14 INFO  TestActions:26 - ---INFO--- Element Text is Bentley Betts
+2019-05-07 09:12:14 INFO  TestActions:126 - ---PASS---Step No. Step 3 : Expected Result is : Verify that the text of object lblContactName in screen Home contains text Bentley and Actual Result is : Successfully verify text of object lblContactName in screen Home, located by XPATH and value //div[@class='contact-name']/a. Actual text is Bentley Betts
+2019-05-07 09:12:15 INFO  TestActions:26 - ---INFO--- Element Text is Bentley Betts
+2019-05-07 09:12:15 INFO  TestActions:126 - ---PASS---Step No. Step 4 : Expected Result is : Verify that the text of object lblContactName in screen Home contains text Bentley Betts and Actual Result is : Successfully verify text of object lblContactName in screen Home, located by XPATH and value //div[@class='contact-name']/a. Actual text is Bentley Betts
+2019-05-07 09:12:15 INFO  TestActions:26 - ---INFO--- Test Case Field Validation of Manage Portal Passed
+2019-05-07 09:12:15 INFO  TestActions:26 - ---INFO--- Test Field Validation of Manage Portal ended  @ 09:12:15
+2019-05-07 09:12:15 INFO  TestActions:103 - ---INFO---Test Case : Field Validation of Manage Portal finished
+2019-05-07 09:12:15 INFO  TestDriver:101 - All tests get executed
+2019-05-07 09:12:15 INFO  TestDriver:103 - Total test cases executed:1
+2019-05-07 09:12:15 INFO  TestDriver:104 - Total passed test cases:1
+2019-05-07 09:12:15 INFO  TestDriver:105 - Total failed test cases:0
+2019-05-07 09:12:15 INFO  TestDriver:106 - 
+
+*********EXECUTION STOPPED**********
